@@ -1,0 +1,49 @@
+# Core Dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Document Processing
+python-pptx==0.6.21
+python-docx==0.8.11
+openpyxl==3.10.10
+PyPDF2==3.0.1
+pypdf==4.0.1
+
+# OCR and Vision
+pytesseract==0.3.10
+pdf2image==1.16.3
+Pillow==10.1.0
+easyocr==1.7.0
+
+# Web Scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+selenium==4.15.0
+
+# Cloud Storage
+boto3==1.29.7
+google-cloud-storage==2.10.0
+azure-storage-blob==12.19.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Async Support
+aiohttp==3.9.1
+asyncio-contextmanager==1.0.0
+
+# Logging and Monitoring
+structlog==23.2.0
+python-json-logger==2.0.7
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Database
+sqlalchemy==2.0.23
+
+# CSV and Data
+chardet==5.2.0
